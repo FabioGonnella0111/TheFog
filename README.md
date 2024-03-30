@@ -8,10 +8,10 @@ Downloads:
 
 How to import the project in unity:
 
-- unzip folder TheFog
+- unzip folder "TheFog"
 - open UnityHub
-- click Projects
-- click Add
+- click "Projects" on the left
+- click "Add" on the top
 - add the entair folder TheFog
 - when unity is open click item "File" at the top left
 - when "File" is open click the second item "Open Scene"
