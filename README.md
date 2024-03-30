@@ -12,6 +12,8 @@ How to import the project in unity:
 - click Projects
 - click Add
 - Add the entair folder TheFog
+
+Description:
   
 The game consists of surviving as long as possible by killing enemies that spawn repeatedly endlessly.
 the game is in its embryonic stage and yet to be completed.
