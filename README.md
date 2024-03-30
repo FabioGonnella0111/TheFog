@@ -1,8 +1,8 @@
 # TheFog
 2D Survival Game
 
-*Download unity : https://unity.com/download
-*Download the entire repo "TheFog"
+-Download unity : https://unity.com/download
+-Download the entire repo "TheFog"
 
 To import the project :
 -open UnityHub
