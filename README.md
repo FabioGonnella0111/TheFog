@@ -4,7 +4,7 @@
 Downloads:
 
 - Download Uniy https://unity.com/download
-- Download ZIP entair repo Thefog
+- Download entair ZIP folder "Thefog"
 
 How to import the project in unity:
 
