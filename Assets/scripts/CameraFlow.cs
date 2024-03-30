@@ -6,7 +6,6 @@ public class CameraFlow : MonoBehaviour
 {
     Transform Hero;
 
-
     [SerializeField]
     float z_camera = -10f;
 
