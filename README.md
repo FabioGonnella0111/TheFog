@@ -1,10 +1,11 @@
 # TheFog
 2D Survival Game
 
-Downloads :
+How the game works:
 
--Download unity : https://unity.com/download
--Download the entire repo "TheFog"
+- to move, press the directional arrows or ASD
+- press SPACEBAR to jump
+- press Q to attack
 
 To import the project :
 
