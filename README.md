@@ -1,6 +1,14 @@
 # TheFog
 2D Survival Game
---Import the entire repo into unity to edit the project--
+
+*Download unity : https://unity.com/download
+*Download the entire repo "TheFog"
+
+To import the project :
+-open UnityHub
+-click project
+-click Add
+-select "TheFog"
 
 The game consists of surviving as long as possible by killing enemies that spawn repeatedly endlessly.
 the game is in its embryonic stage and yet to be completed.
