@@ -4,14 +4,19 @@
 Downloads:
 
 - Download Uniy https://unity.com/download
-- Download entair repo Thefog
+- Download ZIP entair repo Thefog
 
 How to import the project in unity:
 
+- unzip folder TheFog
 - open UnityHub
 - click Projects
 - click Add
-- Add the entair folder TheFog
+- add the entair folder TheFog
+- when unity is open click item "File" at the top left
+- when "File" is open click the second item "Open Scene"
+- when "Open Scene" is open search in folder the item "TheFogGame"
+- click and start "TheFogGame"
 
 Description:
   
